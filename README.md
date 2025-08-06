@@ -85,9 +85,9 @@ Applied full **Design Thinking process**:
 
 ## Supplementary Documents
 
-📄 [Project Brief (PDF)](https://github.com/KiruthikaRamadoss/Competitive-Analysis-Market-Positioning-for-X-Applied-AI-program/blob/main/docs/Project_brief_Doc.pdf) 
-📄 [Final Project (PDF)](https://github.com/KiruthikaRamadoss/Competitive-Analysis-Market-Positioning-for-X-Applied-AI-program/blob/main/docs/Final_Project.pdf)   
+📄 [Project Brief (PDF)](https://github.com/KiruthikaRamadoss/Competitive-Analysis-Market-Positioning-for-X-Applied-AI-program/blob/main/docs/Project_brief_Doc.pdf)    
 📈 [Final Presentation (PPT)](https://github.com/KiruthikaRamadoss/Competitive-Analysis-Market-Positioning-for-X-Applied-AI-program/blob/main/docs/Project_PPT.pptx)  
+📄 [Final Project (PDF)](https://github.com/KiruthikaRamadoss/Competitive-Analysis-Market-Positioning-for-X-Applied-AI-program/blob/main/docs/Final_Project.pdf)
 
 ---
 
