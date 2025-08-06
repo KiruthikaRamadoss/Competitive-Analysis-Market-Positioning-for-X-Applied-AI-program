@@ -1,6 +1,6 @@
 # Competitive-Analysis-Market-Positioning-for-X-Applied-AI-program
 
-A Design Thinking–driven project aimed at positioning the McCoy School’s innovative “X + Applied AI” initiative within a competitive academic landscape. The project integrates market research, user-centered design, and strategic communication to help the business school stand out in the AI-integrated education space.
+A Design Thinking-driven project aimed at positioning the McCoy School’s innovative “X + Applied AI” initiative within a competitive academic landscape. The project integrates market research, user-centered design, and strategic communication to help the business school stand out in the AI-integrated education space.
 
 ---
 
