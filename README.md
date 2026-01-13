@@ -1,6 +1,8 @@
 # Competitive-Analysis-Market-Positioning-for-X-Applied-AI-program
 
-This project was developed as part of my graduate studies at the McCoy College of Business. It applies Design Thinking principles to strategically position the McCoy school’s upcoming “X + Applied AI” program within a competitive academic environment. The work combines market research, user-centric design, and strategic communication to highlight the program’s value and distinctiveness in the evolving landscape of AI-driven business education.
+This project was developed as part of my graduate studies at the McCoy College of Business. It applies Design Thinking principles to strategically position the McCoy school’s upcoming “X + Applied AI” program within a competitive academic environment. 
+
+The work combines market research, user-centric design, and strategic communication to highlight the program’s value and distinctiveness in the evolving landscape of AI-driven business education.
 
 ---
 
